@@ -1,4 +1,4 @@
-### Hi there, I'm Indah Rusmawati - aka INRUI ![](https://komarev.com/ghpvc/?username=indaharlert&label=PROFILE+VISITS)
+### Hi there, I'm Indah Rusmawati - aka INRUI 
 # I'm a Bachelor of Computer Science
 
 - I’m currently Live in Jakarta, Indonesia
@@ -6,7 +6,7 @@
 - I Speak 4 Languages ( English, Indonesian, Japanese, Malay )
 - Fun fact: I love to play Online Games and Watch Anime
 
-### Connect with me:
+### Connect with me: ![](https://komarev.com/ghpvc/?username=indaharlert&label=PROFILE+VISITS)
 
 [<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
